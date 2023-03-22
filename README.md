@@ -1,5 +1,5 @@
 Group Name : 
-Group Members: Arpit Bansal (arpitb2), Vishnuh Bala (netid), Yoshee Jain (netid)
+Group Members: Arpit Bansal (arpitb2), Vishnuh Bala (netid), Yoshee Jain (yosheej2)
 
 
 Project Introduction:
@@ -15,7 +15,7 @@ By checkpoint 1, we plan on creating the website and start with the sudoko solve
 
 
 Possible Challenges: 
-1. The runtime of the sudoko solver code is very large. We plan on resolving this by looking into research papers about doing the code differently. One approach we thought of ourselves was giving the code some starting values depending the 3 * 3 box with the most numbers and then running the code on the basis of those values rather than completely randomizing it. 
+1. From the logic that we are thinking of using to create the sodoko solver, the runtime of the sudoko solver code is very large. We plan on resolving this by looking into research papers about doing the code differently. One approach we thought of ourselves was giving the code some starting values depending the 3 * 3 box with the most numbers and then running the code on the basis of those values rather than completely randomizing it. 
 2. No member of our group knows how to integrate front end with the back end and we will have to do some research on that. 
 
 
