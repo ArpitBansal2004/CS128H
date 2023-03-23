@@ -1,5 +1,5 @@
-Group Name : 
-Group Members: Arpit Bansal (arpitb2), Vishnuh Bala (netid), Yoshee Jain (yosheej2)
+Group Name : Sudoku Solver
+Group Members: Arpit Bansal (arpitb2), Vishnuh Bala (vsbala2), Yoshee Jain (yosheej2)
 
 
 Project Introduction:
