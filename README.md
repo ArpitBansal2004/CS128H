@@ -8,7 +8,7 @@ For this project, we are creating a Sudoko Puzzle solver. The front end will be 
 Technical Overview:
 The project is divided into 3 major components: 
 1. The Sudoko Solver Rust Code
-2. Website designing using HTML and CSS
+2. Website designing using React Native
 3. Front-end Back-end integration
 
 By checkpoint 1, we plan on creating the website and start with the sudoko solver code. By checkpoint 2, we will complete the sudoko solver code. In the last few days before the final porject submission, we will work on integrating boththe front end and the back end. 
